@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Registro Vial - SB</string>
+    <string name="report_saved">Reporte guardado correctamente</string>
+    <string name="permission_required">La app necesita permisos de Cámara y Ubicación para funcionar.</string>
+    <string name="btn_save">Guardar Reporte</string>
+    <string name="developer_credit">Desarrollado por Sebastian Betancourt</string>
+</resources>
