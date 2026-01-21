@@ -13,7 +13,9 @@
 
 Formulario de Registro 
 <img width="714" height="1599" alt="image" src="https://github.com/user-attachments/assets/1c4688ab-d478-4cee-b317-bc6436d25891" />
+
 Historial de Reportes
+
 <img width="714" height="1599" alt="image" src="https://github.com/user-attachments/assets/84c12673-8f63-4523-a1ca-809ec2b36079" />
 
 
