@@ -4,7 +4,6 @@
 
 
 ## Cambios realizados por el autor 
-- Autor añadido: **Sebastian Betancourt**.
 - Nombre de la aplicación actualizado en recursos: **Registro Vial - SB**.
 - Tiempo de vibración reducido a **3 segundos** (antes 5 segundos) por usabilidad.
 - Mensajes de interfaz refinados y strings movidos a `res/values/strings.xml`.
