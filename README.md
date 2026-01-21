@@ -14,11 +14,12 @@
 
 ##  Evidencias del Funcionamiento
 
-| Formulario de Registro | Historial de Reportes |
-| :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/f3c7d373-da46-4368-abff-a2e5adf61f9b" width="320" alt="Formulario" /> | <img src="https://github.com/user-attachments/assets/0801b76b-4345-48f6-95c7-9475a6c53acb" width="320" alt="Historial" /> |
+Formulario de Registro 
+<img width="714" height="1599" alt="image" src="https://github.com/user-attachments/assets/1c4688ab-d478-4cee-b317-bc6436d25891" />
+Historial de Reportes
+<img width="714" height="1599" alt="image" src="https://github.com/user-attachments/assets/84c12673-8f63-4523-a1ca-809ec2b36079" />
 
----
+
 
 ## Características Principales
 
