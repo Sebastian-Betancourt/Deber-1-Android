@@ -1,7 +1,5 @@
 #  Registro de Siniestros Viales
 
-**Desarrollador:** Sebastian Betancourt  
-**Materia:** Aplicaciones Móviles 
 
 
 
